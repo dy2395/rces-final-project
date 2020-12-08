@@ -8,6 +8,6 @@ Monthly average surface solar radiaion data from 2000 to 2018: https://opendap.l
 
 Summary of analysis:
 Select and plot air quality monitor sites in New York State. 
-Select surface solar radiation data in clear skies (to eliminate the cloud effects) near the monitor sites and plot it.  Then select where PM 2.5 level < 12(μg/m3) and > 35.5 (μg/m3) and plot the corresponding surface solar radiaion to see if there is a huge difference. I can also try using a linear regression model (scikit-learn) to find relationship between PM 2.5 level and surface solar radiation in clear skies.
+Select surface solar radiation data in clear sky conditions (to eliminate the cloud effects) near the monitor sites and plot it.  Then select where PM 2.5 level < 12(μg/m3) and > 35.5 (μg/m3) and plot the corresponding surface solar radiaion to see if there is a huge difference. Can also try using a linear regression model (scikit-learn) to find relationship between PM 2.5 level and surface solar radiation in clear skies.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dy2395/rces-final-project/HEAD)

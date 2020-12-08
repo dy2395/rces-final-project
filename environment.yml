@@ -7,6 +7,4 @@ dependencies:
     - xarray
     - matplotlib
     - cartopy
-    - re
-    - datetime
     - fsspec
