@@ -1,6 +1,6 @@
 Final Project 
 
-The scientific question: A study showes that for particle matters within 2.5-10, PM 2.5 reflects surface solar radiation the most and so affect the power output of solar PVs. I would like to see if PW 2.5 really imposes a negative affect on surface  solar radiation and if so how much is the effect. 
+The scientific question: A study shows that for particulate matters within 2.5-10 pm, PM 2.5 reflects surface solar radiation the most and so affect the power output of solar PVs. I would like to see if PW 2.5 really imposes a negative affect on surface  solar radiation and if so how much is the effect. 
 
 * PM 2.5 air quality data from all sites in New York state in 2016 from EPA: https://raw.githubusercontent.com/dy2395/rces-final-project/master/NY_2016_PM2.5.csv
 
