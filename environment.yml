@@ -9,4 +9,8 @@ dependencies:
     - cartopy
     - fsspec
     - scipy
+    - sklern
+    - aiohttp
+    - asyncio
+    - requests
    
