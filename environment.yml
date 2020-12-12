@@ -9,8 +9,7 @@ dependencies:
     - cartopy
     - fsspec
     - scipy
-    - sklern
+    - sklearn
     - aiohttp
-    - asyncio
     - requests
    
