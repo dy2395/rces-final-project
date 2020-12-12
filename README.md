@@ -10,6 +10,6 @@ PM 2.5 air quality data from all sites in New York state in 2016 from EPA: https
 
 
 Summary of analysis:
-Visualize GHI and DNI data over the US and the New York State. Calculate the diffuse horizontal irradiance (DHI) and diffuse fraction. Plot PM 2.5 concentration data from air quality sites over the New York State and make close-up to New York City. Also plot filtered data with higher values for clearer comparison in New York City. Find diffuse irradiance and diffuse fraction for site locations and run linear regression models to examine the correlation.
+Visualize GHI and DNI data over the US and the New York State. Calculate the diffuse horizontal irradiance (DHI) and diffuse fraction. Plot PM 2.5 concentration data from air quality sites over the New York State and make close-up to New York City. Also plot filtered data with higher values for clearer comparison in New York City. Find and average diffuse irradiance & diffuse fraction data that are close to the PM 2.5 data locations, and run linear regression models to examine the correlation.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dy2395/rces-final-project/HEAD)
