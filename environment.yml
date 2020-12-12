@@ -8,3 +8,6 @@ dependencies:
     - matplotlib
     - cartopy
     - fsspec
+    - scipy
+    - math
+    - sklearn
